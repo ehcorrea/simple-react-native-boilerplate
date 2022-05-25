@@ -1,0 +1,8 @@
+{
+    "name": "simple-react-native-boilerplate",
+    "version": "0.0.1",
+    "description": "React Native Simple Template",
+    "repository": "https://github.com/ehcorrea/simple-react-native-boilerplate.git",
+    "author": "Emilio H Correa <ehcorrea60@gmail.com>",
+    "license": "MIT"
+  }
